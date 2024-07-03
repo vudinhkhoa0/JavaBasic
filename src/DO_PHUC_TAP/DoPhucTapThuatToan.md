@@ -1,4 +1,4 @@
-# ALGORITHM COMPLEXITY
+# Độ Phức Tạp Thuật Toán
 ## Chấm bài trên web
 ![alt text](image.png)
 ## Một vài độ phức tạp thường gặp
