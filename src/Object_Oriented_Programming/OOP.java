@@ -26,8 +26,8 @@ public class OOP {
         static keyword: chung cho cả class, dù đối tượng khác nhau nhưng thuộc tính static phải bằng(giống) nhau. 
         Tính chất: 
             Encapsulation(Đóng gói): 
-                Thuộc tính để private
-                Phương thức: public
+                Thuộc tính để private (dấu -)
+                Phương thức: public (dấu +) 
     */  
     // public static void main(String[] args) { 
     //     Scanner sc = new Scanner(System.in);

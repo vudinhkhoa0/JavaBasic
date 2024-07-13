@@ -1,5 +1,5 @@
 package SET;
-
+// (*****)java.lang.NullPointerException: Chưa cấp phát
 public class NewKnowledge_Set {
     /*
         - Set:  Là container -> mỗi phần từ là duy nhất. Được cài đặt bằng bảng băm (Hash table) -> tốc độ tìm kiếm phần
